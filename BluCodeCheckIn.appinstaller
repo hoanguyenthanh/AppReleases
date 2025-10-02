@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="https://github.com/hoanguyenthanh/AppReleases/blob/master/BluCodeCheckIn.appinstaller"
+	Uri="https://raw.githubusercontent.com/hoanguyenthanh/AppReleases/refs/heads/master/BluCodeCheckIn.appinstaller"
 	Version="1.0.18.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="fd530def-0de2-4c2d-9bf2-ef6da276d076"
