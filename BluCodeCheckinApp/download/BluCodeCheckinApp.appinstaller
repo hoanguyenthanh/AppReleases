@@ -1,13 +1,13 @@
 <AppInstaller
     xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2"
-    Uri="https://github.com/hoanguyenthanh/AppReleases/blob/master/BluCodeCheckinApp/BluCodeCheckin_x86.appinstaller"
+    Uri="https://github.com/hoanguyenthanh/AppReleases/tree/master/BluCodeCheckinApp/download/BluCodeCheckinApp.appinstaller"
     Version="1.0.15.0">
 
   <MainPackage
       Name="BluCodeCheckinApp"
-      Publisher="CN=YourPublisherName"
+      Publisher="CN=Hoa Nguyen"
       Version="1.0.15.0"
-      Uri="https://github.com/hoanguyenthanh/AppReleases/blob/master/BluCodeCheckinApp/download/BluCodeCheckinApp_1.0.15.0_x86.msixbundle" />
+      Uri="https://github.com/hoanguyenthanh/AppReleases/tree/master/BluCodeCheckinApp/download/BluCodeCheckinApp_1.0.15.0_x86.msixbundle" />
 
   <UpdateSettings>
     <OnLaunch
