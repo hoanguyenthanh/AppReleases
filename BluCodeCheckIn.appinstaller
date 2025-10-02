@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="https://github.com/hoanguyenthanh/AppReleases/BluCodeCheckIn.appinstaller"
+	Uri="https://github.com/hoanguyenthanh/AppReleases/blob/master/BluCodeCheckIn.appinstaller"
 	Version="1.0.18.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="fd530def-0de2-4c2d-9bf2-ef6da276d076"
 		Version="1.0.18.0"
 		Publisher="CN=Hoa Nguyen"
-		Uri="https://github.com/hoanguyenthanh/AppReleases/BluCodeCheckIn_1.0.18.0_x86_Debug.msixbundle" />
+		Uri="https://github.com/hoanguyenthanh/AppReleases/blob/master/BluCodeCheckIn_1.0.18.0_x86_Debug.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
