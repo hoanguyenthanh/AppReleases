@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="https://github.com/hoanguyenthanh/AppReleases/releases/latest/download/BluCodeCheckIn.appinstaller"
+	Version="1.0.30.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="fd530def-0de2-4c2d-9bf2-ef6da276d076"
+		Version="1.0.30.0"
+		Publisher="CN=Hoa Nguyen"
+		Uri="https://github.com/hoanguyenthanh/AppReleases/releases/latest/download/BluCodeCheckIn_x86.msixbundle" />
+	<Dependencies>
+		<Package
+			Name="Microsoft.VCLibs.140.00.UWPDesktop"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x86"
+			Uri="https://github.com/hoanguyenthanh/AppReleases/releases/latest/download/Microsoft.VCLibs.x86.14.00.Desktop.appx"
+			Version="14.0.33728.0" />
+		<Package
+			Name="Microsoft.VCLibs.140.00"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x86"
+			Uri="https://github.com/hoanguyenthanh/AppReleases/releases/latest/download/Microsoft.VCLibs.x86.14.00.appx"
+			Version="14.0.33519.0" />
+	</Dependencies>
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="24" />
+	</UpdateSettings>
+</AppInstaller>
